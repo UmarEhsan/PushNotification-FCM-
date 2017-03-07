@@ -11,7 +11,7 @@ Go to firebase console (https://firebase.google.com/) and create a new project
 Get your senderID from Project Settings of your firebase project 
 
 <p align="center">
-  <img src="firebase-console.png" width="350"/>
+  <img src="firebase-console.PNG" width="350"/>
   
 </p>
 
