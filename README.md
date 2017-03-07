@@ -14,3 +14,5 @@ Get your senderID from Project Settings of your firebase project
   <img src="firebase-console.png" width="350"/>
   
 </p>
+
+Inside Cloud Messaging tab you can get your senderId 
