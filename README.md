@@ -39,3 +39,9 @@ Open up your app.js and replace the current .run() block with this:
   <img src="run.PNG" width="350"/>
   
 </p>
+
+After all this step run ionic serve and go to your chrome console by pressing f12 you can see your device token for web there
+<p align="center">
+  <img src="devicetoken.PNG" width="350"/>
+  
+</p>
